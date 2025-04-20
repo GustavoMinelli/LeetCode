@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GustavoMinelli/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/GustavoMinelli/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GustavoMinelli/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/GustavoMinelli/LeetCode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/GustavoMinelli/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
